@@ -1,0 +1,25 @@
+{
+    "profile_image": "https://i.ibb.co/wJM8tTs/IMG-20180809-0001.jpg",
+    "name": "Suman Chatterjee",
+    "address": "131 West Plaza, Townlane , Stanwell, Staines-Upon-Thames, TW19 7FH",
+    "nationality": "British",
+    "profile" : "Senior iOS Developer more than 19 years of software development experience. Skills included strong knowledge of iOS, Objective-C, Swift, C/C++, Agile development approach, Object-Oriented Analysis and Design, Object Oriented Programming, software integration and Product development.",
+    "phone": "+447856518020",
+    "results": [
+        {
+            "company": "Sainsbury's",
+            "icon": "https://i.ibb.co/wJM8tTs/IMG-20180809-0001.jpg",
+            "start_date": "2018-10-03",
+            "end_date":"2018-10-03",
+            "overview": "Eddie Brock is a reporter—investigating people who want to go unnoticed. But after he makes a terrible discovery at the Life Foundation, he begins to transform into ‘Venom’.  The Foundation has discovered creatures called symbiotes, and believes they’re the key to the next step in human evolution. Unwittingly bonded with one, Eddie discovers he has incredible new abilities—and a voice in his head that’s telling him to embrace the darkness."
+        },
+        {
+            "company": "Nectar",
+            "icon": "https://i.ibb.co/wJM8tTs/IMG-20180809-0001.jpg",
+            "start_date": "2018-10-03",
+            "end_date":"2018-10-03",
+            "overview": "Eddie Brock is a reporter—investigating people who want to go unnoticed. But after he makes a terrible discovery at the Life Foundation, he begins to transform into ‘Venom’.  The Foundation has discovered creatures called symbiotes, and believes they’re the key to the next step in human evolution. Unwittingly bonded with one, Eddie discovers he has incredible new abilities—and a voice in his head that’s telling him to embrace the darkness."
+        }
+
+    ]
+}
